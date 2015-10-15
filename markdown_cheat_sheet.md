@@ -31,14 +31,14 @@
     这是代码段
     print 'Hello World'
 
-- - - - - - - - 
+- - - - - - - -
 
 > 引用
-> 
+>
 > 引用换行最好在前面也加上大于号
-> 
+>
 > > 引用可以嵌套
-> 
+>
 > 嵌套要有层次关系
 
 ****************
@@ -59,19 +59,10 @@
     1. 有序列表
     2. 有序列表
 
-* * * * * * * * 
+* * * * * * * *
 
-<table>
-<tr>
-  <td>表头1</td>
-  <td>表头2</td>
-</tr>
-<tr>
-  <td>列1</td>
-  <td>列1</td>
-</tr>
-<tr>
-  <td>列1</td>
-  <td>列1</td>
-</tr>
-</table>
+|no-aligned|left-aligned|right-aligned|center-aligned|
+|---|:---|---:|:---:|
+|text|text|text|text|
+|text|text|text|text|
+|text|text|text|text|
